@@ -15,7 +15,7 @@ https://chipped-cost-454.notion.site/Simple-RGB-Controller-27dffd23a91680ec94acd
 
 ## ScreenShot
 
-<img width="608" height="514" alt="image" src="https://github.com/user-attachments/assets/3ffb2be4-f41e-4ad1-a23e-f53f5601866e" />
+<img width="486" height="414" alt="image" src="https://github.com/user-attachments/assets/639f02eb-8c1d-4591-8f76-bba5c921e50e" />
 
 ## 專案結構
 
