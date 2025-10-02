@@ -9,6 +9,10 @@
 - 動態文字顯示當前 RGB 數值
 - 介面簡潔直觀，適合學習 SwiftUI 基礎
 
+## ScreenShot
+
+<img width="608" height="514" alt="image" src="https://github.com/user-attachments/assets/3ffb2be4-f41e-4ad1-a23e-f53f5601866e" />
+
 ## 專案結構
 
 ```
