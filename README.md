@@ -2,6 +2,10 @@
 
 這是一個使用 SwiftUI 開發的簡易 RGB 控制器 App，透過三個滑桿調整紅、綠、藍三原色的比例，即時改變背景顏色，並顯示目前的 RGB 數值。
 
+## Notion Link:
+
+https://chipped-cost-454.notion.site/Simple-RGB-Controller-27dffd23a91680ec94acd565a9129df1
+
 ## 功能介紹
 
 - 實時背景顏色調整（基於 RGB 值）
